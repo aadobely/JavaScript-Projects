@@ -1,8 +1,8 @@
-// Using document.write() method to display text on the webpage
-document.write("Hello, world!");
+// Using window.alert() method
+window.alert("Hello, world!");
 
-// You can also add HTML tags
-document.write("<h2>This text is written using document.write()</h2>");
+// You can also use alert() without "window." prefix
+alert("This is another alert message!");
 
-// Display multiple items
-document.write("<p>This method writes directly to the HTML document.</p>");
+// Alert with expressions
+alert("The sum of 5 + 3 is: " + (5 + 3));
