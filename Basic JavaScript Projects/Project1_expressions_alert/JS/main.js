@@ -1,50 +1,34 @@
-// ===== ASSIGNMENT 1: Variable Assignment =====
-// Assign a string value to a variable
-var A = "This is a string";
+//====================
+// BASIC JAVASCRIPT PROJECTS ASSIGNMENT
+// This file demonstrates fundamental JavaScript concepts
+//====================
 
-// Use document.write() to display the variable
-document.write(A);
+// window.alert method - displays a pop-up alert
+window.alert("Hello, world!");
 
-// Add spacing between assignments
+// document.write method - writes content to the HTML document
+document.write("For the last time, hello, world!");
+
+// Adding line breaks
 document.write("<br><br>");
 
 
-// ===== ASSIGNMENT 2: Multiple Variables Assignment =====
-// Assign multiple variables in one statement
-var firstName = "Hasan", lastName = "Adobely", age = 44, city = "Toronto";
+// ===== CREATING TWO VARIABLES =====
+// Sent1 variable with the beginning of the string
+var Sent1 = "This is the beginning of the string";
 
-// Use document.write() to display one of the variables
-document.write("My first name is: " + firstName);
+// Sent2 variable with the end of the string
+var Sent2 = " and this is the end of the string";
 
-// Add spacing
+
+// ===== CONCATENATION =====
+// Displaying the variables concatenated together using document.write
+document.write(Sent1 + Sent2);
+
+// Adding spacing
 document.write("<br><br>");
 
 
-// ===== ASSIGNMENT 3: Concatenation Assignment =====
-// Concatenate a string within document.write()
-document.write("Hello, " + "my name is " + firstName + " and I live in " + city + ".");
-
-// Add spacing
-document.write("<br><br>");
-
-
-// ===== ASSIGNMENT 4: Escape Character Assignment =====
-// String with apostrophes - using escape characters
-document.write("I\'m learning JavaScript at the Academy of Learning.");
-
-// Add spacing
-document.write("<br>");
-
-// String with quotation marks - using escape characters
-document.write("The instructor said, \"Practice makes perfect!\"");
-
-// Add spacing
-document.write("<br><br>");
-
-
-// ===== ASSIGNMENT 5: String Assignment =====
-// Assign a string value to a variable
-var greeting = "Welcome to my JavaScript learning journey!";
-
-// Use window.alert() to display the variable
-window.alert(greeting);
+// ===== EXPRESSION =====
+// A mathematical expression that multiplies two numbers
+document.write(33 * 84);
