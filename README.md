@@ -12,23 +12,51 @@ This repository contains my JavaScript projects, assignments, and coding exercis
 ## Course Information
 **Program**: Software and Web Development  
 **Institution**: Academy of Learning Career College  
-**Focus**: JavaScript fundamentals, DOM manipulation, algorithms, and modern web development
+**Focus**: JavaScript fundamentals, DOM manipulation, functions, and interactive web development
 
-## Projects Included
-This repository will be regularly updated with:
-- Course assignments and challenges
-- Practice exercises
-- Mini-projects
-- Code snippets and experiments
+## Projects
+
+### **Portfolio Website**
+A fully responsive portfolio website featuring:
+- Interactive slideshow with navigation
+- Contact form with validation
+- Smooth animations and transitions
+- Mobile-responsive design
+- **Live Site**: [Your Cloudways URL here]
+
+### **Pizza Menu**
+A menu application to order pizza with various toppings. Calculates price based on selections.
+
+### **Tic-Tac-Toe Game**
+Classic tic-tac-toe game with:
+- Random dice roll to select first player
+- Customizable player tokens
+- Winner celebration with music and effects
+
+### **Calculator**
+A functional 4-operation calculator with clean UI for basic arithmetic operations.
+
+### **Basic JavaScript Projects**
+Collection of fundamental exercises covering:
+- Variables and data types
+- Document manipulation
+- Alert methods
+- String concatenation
+- Expressions and operators
 
 ## Technologies & Tools
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Git & GitHub
 - VS Code
+- FileZilla FTP
+- Cloudways Hosting
+- Formspree
 
 ## Contact
-Feel free to explore my projects and connect with me for collaboration opportunities!
+**Web Agency**: Adobely  
+**GitHub**: https://github.com/aadobely  
+**Portfolio**: [Your live site URL]
 
 ---
 **Note**: This repository is actively maintained as part of my ongoing education in web development.
